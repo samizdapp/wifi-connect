@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/smz/wifi/precache-manifest.4bdd8977662d3f1d8891d966429cb7d8.js"
+  "/smz/wifi/precache-manifest.aa991961e7b4bee7b6d5cc3ba810d207.js"
 );
 
 self.addEventListener('message', (event) => {

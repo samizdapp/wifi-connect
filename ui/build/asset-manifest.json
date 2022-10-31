@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/smz/wifi/static/js/main.af0abb31.chunk.js",
+    "main.js": "/smz/wifi/static/js/main.b8c90bd6.chunk.js",
     "runtime-main.js": "/smz/wifi/static/js/runtime-main.15b16ed2.js",
     "static/js/2.de958b6e.chunk.js": "/smz/wifi/static/js/2.de958b6e.chunk.js",
     "index.html": "/smz/wifi/index.html",
-    "precache-manifest.4bdd8977662d3f1d8891d966429cb7d8.js": "/smz/wifi/precache-manifest.4bdd8977662d3f1d8891d966429cb7d8.js",
+    "precache-manifest.aa991961e7b4bee7b6d5cc3ba810d207.js": "/smz/wifi/precache-manifest.aa991961e7b4bee7b6d5cc3ba810d207.js",
     "service-worker.js": "/smz/wifi/service-worker.js",
     "static/js/2.de958b6e.chunk.js.LICENSE.txt": "/smz/wifi/static/js/2.de958b6e.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/smz/wifi/static/media/logo.34c0c94e.svg"
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.15b16ed2.js",
     "static/js/2.de958b6e.chunk.js",
-    "static/js/main.af0abb31.chunk.js"
+    "static/js/main.b8c90bd6.chunk.js"
   ]
 }
